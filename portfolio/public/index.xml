@@ -6,7 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:56:52 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Fri, 23 Feb 2024 00:56:52 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Minfei&amp;rsquo;s Resume page</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 23 Feb 2024 00:46:02 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Minfei&amp;rsquo;s about page!</description>
+    </item>
   </channel>
 </rss>
